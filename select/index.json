@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Chronicle A (English Ver.)",
+  "base_artist": "Empty old City",
+  "createdAt": "2025-12-11T16:27:56.414312Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chronicle A (English Ver.)",
+      "artist": "Empty old City",
+      "has_synced": true,
+      "path": "select/01_Chronicle_A_(English_Ver.)_Empty_old_City.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chronicle A (English Ver.)",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_Chronicle_A_(English_Ver.)_Empty_old_City.txt"
+    }
+  ]
+}
